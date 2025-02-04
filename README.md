@@ -5,3 +5,5 @@
 Pára ejecutar el sistema:
 
 ```npm install react```
+
+sistema de registro 2
